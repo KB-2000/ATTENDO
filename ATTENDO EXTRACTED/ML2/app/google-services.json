@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880073832936",
+    "project_id": "attendo-ml2",
+    "storage_bucket": "attendo-ml2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880073832936:android:3e665af5bb446917380c5d",
+        "android_client_info": {
+          "package_name": "com.example.ml2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880073832936-82tdu6ufi709p056kmqqmo9om916ee8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTEdOLamB5xgev2SCTo0r4sGYLWYzKXN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880073832936-82tdu6ufi709p056kmqqmo9om916ee8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
